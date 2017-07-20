@@ -16,4 +16,5 @@ import java.util.List;
 	@AutoInstanceParam(name="menu", value="Romanian")}))
 public class RomanianIE extends PackagedController {
 
+  private static final long serialVersionUID = -4943333454613689694L;
 }
