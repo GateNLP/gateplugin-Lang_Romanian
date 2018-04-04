@@ -16,6 +16,9 @@
 	<groupId>uk.ac.gate.plugins</groupId>
 	<artifactId>lang-romanian</artifactId>
 	<version>8.5-SNAPSHOT</version>
+	
+	<name>Language: Romanian</name>
+	<description>Support for processing Romanian documents</description>
 
 	<licenses>
 		<license>
